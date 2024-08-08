@@ -1,10 +1,16 @@
 # CODETECH-TASK1
 Name: Gonthina Ventaka sai Prasanth
+
 Company:CODETECH IT SOLUTUIONS
+
 ID: CT4AI4397
+
 Domain:Aritifical Intelligence
+
 Duration:July 10th to August 10th 2024
+
 Mentor:Neela santhosh Kumar
+
 Title:
 Data Preprocessing of Image and Convolutional Neural Network (CNN) Model Training
 Objective:
